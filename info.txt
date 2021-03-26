@@ -1,5 +1,0 @@
-account_sid = 'AC5f1c2e2e1c59bf00cae9f529af6ee413'
-auth_token = 'd39b9ff61840f06b4f60e3cdd0fb4ff8'
-body=f"Your Verification code is {user_code}",
-                        from_='+17062045339',
-                        to=f'{phone_number}'
